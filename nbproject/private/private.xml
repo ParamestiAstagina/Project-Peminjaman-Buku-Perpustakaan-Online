@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/DAO/DAOBukuPerpus.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/Model/TabelModelBukuPerpus.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/Controller/ControllerRiwayat.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/Controller/ControllerDaftarBukuUser.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/Controller/ControllerDataUser.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/Model/BukuPerpus.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/DAO/DAOPeminjaman.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/Model/DaftarBukuUser.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/View/FormPeminjaman.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/Model/DataUser.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/Controller/ControllerRegistrasi.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/View/FormLoginUser.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/DAOInterface/IDAODataUser.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/DAOInterface/IDAODaftarBukuUser.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/Model/TabelModelDataUser.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/Helper/KoneksiDB.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/DAOInterface/IDAOBukuPerpus.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/View/FormRegistrasi.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/View/FormDataUser.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/DAO/DAODataUser.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/View/DaftarBukuUser.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/View/BerandaUser.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/Controller/ControllerPeminjaman.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/Controller/ControllerBukuPerpus.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/View/Awalan.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/View/FormLoginAdmin.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/View/BerandaAdmin.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/View/FormBukuPerpus.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/View/FormRiwayat.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/Model/TabelModelDaftarBukuUser.java</file>
+            <file>file:/C:/Users/Gina/Documents/NetBeansProjects/ProjekPBO/src/DAOInterface/IDAOPeminjaman.java</file>
+        </group>
+    </open-files>
+</project-private>
